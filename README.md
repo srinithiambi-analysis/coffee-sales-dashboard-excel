@@ -14,13 +14,13 @@ This dashboard was built to analyze business performance and answer key question
 
 Dashboard Features
 
-- 📅 Timeline filter (Order Date)
-- ☕ Roast Type slicer (Dark, Light, Medium)
-- 🎯 Loyalty Card filter
-- 📦 Product Size filter
-- 📈 Total Sales Over Time (Trend Analysis)
-- 🌍 Sales by Country (Geographical comparison)
-- 🏆 Top 5 Customers (Customer performance insight)
+- Timeline filter (Order Date)
+- Roast Type slicer (Dark, Light, Medium)
+- Loyalty Card filter
+- Product Size filter
+- Total Sales Over Time (Trend Analysis)
+- Sales by Country (Geographical comparison)
+- Top 5 Customers (Customer performance insight)
 
  Tools & Techniques Used
 
@@ -51,4 +51,4 @@ Skills Demonstrated
 
 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview (2).png)
+![Dashboard Preview](dashboard-preview.png)
